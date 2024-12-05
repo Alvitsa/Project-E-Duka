@@ -1,5 +1,4 @@
-@import "src/Styles/mixins";
-
+@use "src/Styles/mixins" as *;
 .footer {
   background-color: var(--black);
   color: var(--white);

@@ -1,4 +1,4 @@
-@import "src/Styles/mixins";
+@use "src/Styles/mixins" as *;
 
 .posters {
   margin: 50px 0 100px;
