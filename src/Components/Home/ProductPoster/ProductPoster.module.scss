@@ -1,4 +1,4 @@
-@import "src/Styles/mixins";
+@use "src/Styles/mixins" as *;
 
 .productPoster {
   background-color: var(--black);

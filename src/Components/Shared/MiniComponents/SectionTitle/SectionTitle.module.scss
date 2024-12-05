@@ -1,4 +1,4 @@
-@import "src/Styles/mixins";
+@use "src/Styles/mixins" as * ;
 
 .sectionTitle .event {
   color: var(--dark-tomato);

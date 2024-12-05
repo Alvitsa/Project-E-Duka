@@ -1,4 +1,4 @@
-@import "src/Styles/mixins";
+@use "src/Styles/mixins" as *;
 
 .dropDownMenu {
   -webkit-tap-highlight-color: transparent;
