@@ -28,13 +28,7 @@ const SearchPage = () => {
 
   return (
     <>
-      <Helmet>
-        <title>Search</title>
-        <meta
-          name="description"
-          content="Find what you're looking for quickly and easily on Exclusive's search page. Enter the product name or keywords to discover a wide range of options tailored to your preferences."
-        />
-      </Helmet>
+      
 
       <div className="container">
         <main className={s.searchPage}>
