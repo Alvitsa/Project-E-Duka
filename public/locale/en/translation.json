@@ -1,18 +1,18 @@
 {
   "firstHeader": {
-    "saleMessage": "Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!",
+    "saleMessage": "December Sale For All Swim Suits And Free SGR To Mombasa - OFF 50%!",
     "shopNow": "Shop Now"
   },
 
   "languageSelector": {
-    "english": "English",
+     "english": "English",
     "russian": "Russian",
     "arabic": "Arabic",
     "french": "French",
     "japanese": "Japanese",
     "hungarian": "Hungarian",
     "hindi": "Hindi"
-  },
+   },
 
   "nav": {
     "home": "Home",
@@ -298,8 +298,8 @@
   "aboutPage": {
     "heroSection": {
       "heading": "Our Story",
-      "paragraphOne": "Launched in 2024, Exclusive is Iraq's premier online shopping marketplace, serving customers nationwide. With a strong focus on personalized marketing, advanced data analytics, and comprehensive service solutions, Exclusive supports over 10,500 sellers and 300 brands, reaching 3 million customers across the country.",
-      "paragraphTwo": "Exclusive offers an extensive selection of over 1 million products, constantly expanding to meet the diverse needs of its customers. From electronics to fashion, and home goods to beauty products, Exclusive provides a wide array of categories to choose from.",
+      "paragraphOne": "Welcome to E-Duka, a revolutionary digital platform designed to empower businesses and individuals alike. Our mission is to create a seamless, accessible, and reliable e-commerce ecosystem that bridges the gap between buyers and sellers in the digital age.",
+      "paragraphTwo": "At E-Duka, we understand the challenges faced by entrepreneurs, small businesses, and consumers in an increasingly digital world. Whether you’re a retailer looking to expand your reach or a consumer seeking convenience and variety, E-Duka is here to simplify your shopping experience. Our platform offers a diverse range of products, from local goods to global essentials, all while providing a secure, user-friendly interface. With integrated payment solutions, fast delivery options, and personalized custom…",
       "imageAlt": "two young women happy with shopping"
     },
     "cardInfo": {
@@ -310,15 +310,23 @@
     },
     "ourMembersData": {
       "founderChairman": {
-        "name": "Tom Cruise",
-        "jobTitle": "Founder & Chairman"
+        "name": "Roy",
+        "jobTitle": "Scrum Master"
       },
       "managingDirector": {
-        "name": "Emma Watson",
+        "name": "Damaris",
         "jobTitle": "Managing Director"
       },
       "productDesigner": {
-        "name": "Will Smith",
+        "name": "Edwin",
+        "jobTitle": "Product Designer"
+      },
+      "productDesigner2": {
+        "name": "Grace",
+        "jobTitle": "Product Designer"
+      },
+      "productDesigner3": {
+        "name": "Lawrence",
         "jobTitle": "Product Designer"
       }
     },

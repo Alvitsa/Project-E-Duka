@@ -11,7 +11,7 @@ const DownloadAppInfo = () => {
   return (
     <>
       <b>{t("footer.section5.downloadApp")}</b>
-      <p>{t("footer.section5.saveThreeDollars")}</p>
+      {/* <p>{t("footer.section5.saveThreeDollars")}</p> */}
 
       <div className={s.appInfo}>
         <div className={s.qrCode}>

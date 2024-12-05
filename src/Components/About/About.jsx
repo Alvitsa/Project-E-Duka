@@ -17,10 +17,11 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About</title>
-        <meta
-          name="description"
-          content="About us, Launched in 2015, Exclusive is South Asia’s premier online shopping marketplace, offering over 1 million products from 10,500 sellers and 300 brands to 3 million customers in Bangladesh."
+        <title>About E-Duka</title>
+        <meta name="description"
+          content="Welcome to E-Duka, a revolutionary digital platform designed to empower businesses and individuals alike. Our mission is to create a seamless, accessible, and reliable e-commerce ecosystem that bridges the gap between buyers and sellers in the digital age.
+
+At E-Duka, we understand the challenges faced by entrepreneurs, small businesses, and consumers in an increasingly digital world. Whether you’re a retailer looking to expand your reach or a consumer seeking convenience and variety, E-Duka is here to simplify your shopping experience."
         />
         <link ref="preload" as="image" type="image/webp" href={womenShopping} />
       </Helmet>
@@ -35,8 +36,9 @@ const About = () => {
         </div>
 
         <div className="container">
-          <AboutInfoCards />
-          <OurMembersSection />
+          {/* <AboutInfoCards /> */}
+          {/* <OurMembersSection /> */}
+          
           <FeaturedSectionFeatures />
         </div>
       </main>

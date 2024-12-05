@@ -17,7 +17,7 @@ const Contact = () => {
         <title>Contact</title>
         <meta
           name="description"
-          content="Get in touch with Exclusive's customer support team for assistance with your orders, inquiries, or feedback. We're here to help you with any questions you may have."
+          content="Get in touch with E-Duka's customer support team for assistance with your orders, inquiries, or feedback. We're here to help you with any questions you may have."
         />
       </Helmet>
 

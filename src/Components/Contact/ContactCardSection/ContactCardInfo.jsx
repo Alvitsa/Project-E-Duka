@@ -20,7 +20,7 @@ const ContactInfoCard = () => {
         <p>{weAreAvailableTrans}</p>
         <p>
           {phoneTrans + ": "}
-          <a href="tel:+8801611112222">+8801611112222</a>
+          <a href="tel:+254782138730">+254782138730</a>
         </p>
       </ContactInfo>
 
@@ -30,12 +30,12 @@ const ContactInfoCard = () => {
         <p>{fillOutTrans}</p>
         <p>
           {customersEmailTrans + ": "}
-          <a href="mailto:customer@exclusive.com">customer@exclusive.com</a>
+          <a href="mailto:customer@eduka.com">customer@eduka.com</a>
         </p>
 
         <p>
           {supportEmailTrans + ": "}
-          <a href="mailto:support@exclusive.com">support@exclusive.com</a>
+          <a href="mailto:support@eduka.com">support@eduka.com</a>
         </p>
       </ContactInfo>
     </section>

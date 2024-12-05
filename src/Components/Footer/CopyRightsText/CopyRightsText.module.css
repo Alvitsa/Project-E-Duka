@@ -4,8 +4,11 @@
   width: fit-content;
   margin: 0 auto;
   line-height: 24px;
-  
 }
+.footer.crt {
+  background-color: #021933;
+}
+
 
 @include small {
   .copyRights {
@@ -20,13 +23,13 @@
 }
 
 .copyRights>span {
-  color: #F9F9F999;
+  color: #f9f9f9;
 }
 
 .copyRights>a {
   outline: none;
   text-decoration: underline;
-  color: #F9F9F9;
+  color: #f9f9f9;
   margin: 0 4px;
 
   &:hover,

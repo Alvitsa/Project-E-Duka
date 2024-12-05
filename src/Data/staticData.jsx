@@ -3,9 +3,9 @@ import {
   bkashCard,
   canonLogo,
   mastercard,
-  member1Img,
-  member2Img,
-  member3Img,
+  // member1Img,
+  // member2Img,
+  // member3Img,
   nagadCard,
   productImg1,
   productImg2,
@@ -137,9 +137,9 @@ export const aboutCardsInfo = [
 
 export const ourMembersData = [
   {
-    name: "Tom Cruise",
-    jobTitle: "Founder & Chairman",
-    img: member1Img,
+    name: "Roy",
+    jobTitle: "Scrum Master",
+    // img: member1Img,
     socialMedia: {
       twitter: "https://twitter.com/",
       instagram: "https://www.instagram.com/",
@@ -149,9 +149,9 @@ export const ourMembersData = [
   },
 
   {
-    name: "Emma Watson",
+    name: "Damaris",
     jobTitle: "Managing Director",
-    img: member2Img,
+    // img: member2Img,
     socialMedia: {
       twitter: "https://twitter.com/",
       instagram: "https://www.instagram.com/",
@@ -161,9 +161,33 @@ export const ourMembersData = [
   },
 
   {
-    name: "Will Smith",
+    name: "Edwin",
     jobTitle: "Product Designer",
-    img: member3Img,
+    // img: member3Img,
+    socialMedia: {
+      twitter: "https://twitter.com/",
+      instagram: "https://www.instagram.com/",
+      linkedin: "https://www.linkedin.com/",
+    },
+    id: uuid(),
+  },
+
+  {
+    name: "Grace",
+    jobTitle: "Product Designer2",
+    // img: member3Img,
+    socialMedia: {
+      twitter: "https://twitter.com/",
+      instagram: "https://www.instagram.com/",
+      linkedin: "https://www.linkedin.com/",
+    },
+    id: uuid(),
+  },
+
+  {
+    name: "Lawrence",
+    jobTitle: "Product Designer3",
+    // img: member3Img,
     socialMedia: {
       twitter: "https://twitter.com/",
       instagram: "https://www.instagram.com/",
