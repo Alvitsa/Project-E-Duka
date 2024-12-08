@@ -1,4 +1,4 @@
-@import "src/Styles/mixins";
+@use "src/Styles/mixins" as *;
 
 .header {
   padding: 4px 12px 16px 12px;

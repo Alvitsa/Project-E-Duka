@@ -1,6 +1,6 @@
 const todoData = {
-  todo: ["Change the UI of some popup menus"],
-  workingOn: ["Build order page content", "Fix all mobile view issues"],
+  todo: ["E-Duka test run"],
+  workingOn: ["E-Duka manenos", "Group 4 Project"],
   achieved: [
     "Build order page",
     "Build working on menu",

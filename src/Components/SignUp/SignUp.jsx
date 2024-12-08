@@ -13,7 +13,7 @@ const SignUp = () => {
         <title>Sign up</title>
         <meta
           name="description"
-          content="Create an Exclusive account to enjoy a personalized shopping experience, track your orders, and manage your preferences easily."
+          content="Create an E-Duka account to enjoy a personalized shopping experience, track your orders, and manage your preferences easily."
         />
       </Helmet>
 

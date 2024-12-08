@@ -198,12 +198,12 @@ export const ourMembersData = [
 ];
 
 export const paymentCards = [
-  {
-    img: bkashCard,
-    alt: "Bkash card",
-    link: "https://www.bkash.com/en/products-services/visa-card-to-bkash",
-    id: uuid(),
-  },
+  // {
+  //   img: bkashCard,
+  //   alt: "Bkash card",
+  //   link: "https://www.bkash.com/en/products-services/visa-card-to-bkash",
+  //   id: uuid(),
+  // },
   {
     img: visaCard,
     alt: "Visa card",
@@ -216,12 +216,12 @@ export const paymentCards = [
     link: "https://www.mastercard.us/en-us.html",
     id: uuid(),
   },
-  {
-    img: nagadCard,
-    alt: "Nagad card",
-    link: "https://www.nagad.com.bd/services/?service=add-money-from-card",
-    id: uuid(),
-  },
+  // {
+  //   img: nagadCard,
+  //   alt: "Nagad card",
+  //   link: "https://www.nagad.com.bd/services/?service=add-money-from-card",
+  //   id: uuid(),
+  // },
 ];
 
 export const LANGUAGES = [
@@ -232,48 +232,48 @@ export const LANGUAGES = [
     code: "en",
     id: uuid(),
   },
-  {
-    lang: "Russian",
-    flag: russiaFlag,
-    flagName: "Russia",
-    code: "ru",
-    id: uuid(),
-  },
-  {
-    lang: "Arabic",
-    flag: saudiFlag,
-    flagName: "Saudi Arabia",
-    code: "ar",
-    id: uuid(),
-  },
-  {
-    lang: "French",
-    flag: franceFlag,
-    flagName: "France",
-    code: "fr",
-    id: uuid(),
-  },
-  {
-    lang: "hungarian",
-    flag: hungaryFlag,
-    flagName: "Hungary",
-    code: "hu",
-    id: uuid(),
-  },
-  {
-    lang: "Japanese",
-    flag: japanFlag,
-    flagName: "Japan",
-    code: "ja",
-    id: uuid(),
-  },
-  {
-    lang: "Hindi",
-    flag: indiaFlag,
-    flagName: "India",
-    code: "hi",
-    id: uuid(),
-  },
+  // {
+  //   lang: "Russian",
+  //   flag: russiaFlag,
+  //   flagName: "Russia",
+  //   code: "ru",
+  //   id: uuid(),
+  // },
+  // {
+  //   lang: "Arabic",
+  //   flag: saudiFlag,
+  //   flagName: "Saudi Arabia",
+  //   code: "ar",
+  //   id: uuid(),
+  // },
+  // {
+  //   lang: "French",
+  //   flag: franceFlag,
+  //   flagName: "France",
+  //   code: "fr",
+  //   id: uuid(),
+  // },
+  // {
+  //   lang: "hungarian",
+  //   flag: hungaryFlag,
+  //   flagName: "Hungary",
+  //   code: "hu",
+  //   id: uuid(),
+  // },
+  // {
+  //   lang: "Japanese",
+  //   flag: japanFlag,
+  //   flagName: "Japan",
+  //   code: "ja",
+  //   id: uuid(),
+  // },
+  // {
+  //   lang: "Hindi",
+  //   flag: indiaFlag,
+  //   flagName: "India",
+  //   code: "hi",
+  //   id: uuid(),
+  // },
 ];
 
 export const productCardCustomizations = {
@@ -360,25 +360,25 @@ export const otherSectionsMenuItems = [
 export const mySocialMedia = [
   {
     name: "Facebook",
-    link: "https://www.facebook.com/MoamalAlaa109",
+    link: "https://www.facebook.com/#",
     icon: "facebook",
     id: uuid(),
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/MoamalAlaa7",
+    link: "https://twitter.com/#",
     icon: "twitter",
     id: uuid(),
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/kubislav23/",
+    link: "https://www.instagram.com/#",
     icon: "instagram",
     id: uuid(),
   },
   {
     name: "Linkedin",
-    link: "https://www.linkedin.com/in/moamal-alaa-a4bb15237/",
+    link: "https://www.linkedin.com/#",
     icon: "linkedin",
     id: uuid(),
   },

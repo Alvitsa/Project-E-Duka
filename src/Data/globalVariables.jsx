@@ -1,5 +1,5 @@
-export const MY_REPOS_URL = "https://api.github.com/users/Moamal-2000/repos";
-export const WEBSITE_REPO_ID = 681199946;
+// export const MY_REPOS_URL = "https://api.github.com/users/Moamal-2000/repos";
+// export const WEBSITE_REPO_ID = 681199946;
 export const MINIMUM_QUANTITY = 1;
 export const MAXIMUM_QUANTITY = 1000;
 export const DEFAULT_SWIPER_SPEED = 1000;
@@ -61,8 +61,8 @@ export const regexPatterns = {
 };
 
 export const DEFAULT_LOGIN_DATA = {
-  username: "Lily Watson",
-  emailOrPhone: "lily.wastons@gmail.com",
+  username: "scrum master",
+  emailOrPhone: "scrum@gmail.com",
   password: "random-password1234",
   isSignIn: true,
 };
