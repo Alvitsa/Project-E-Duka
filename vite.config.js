@@ -13,6 +13,15 @@ export default defineConfig({
   ],
   build: {
     sourcemap: true,
+    assetsInclude: ['**/*.ttf'], // Include .ttf fonts
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ['react', 'react-dom'], // Split large libraries into separate chunks
+        },
+      },
+    },
+    chunkSizeWarningLimit: 1000, // Adjust chunk size limit
   },
   define: {
     "process.env": {},
