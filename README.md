@@ -3,6 +3,7 @@ eDuka E-commerce Application
 Welcome to eDuka, a modern and user-friendly e-commerce application designed to make online shopping seamless and enjoyable. This application is a single-page React application powered by a JSON server backend to manage product data and user interactions efficiently. Whether you're searching for specific items, browsing categories, or managing your shopping cart, eDuka offers a smooth and intuitive experience.
 
 Project Description
+
 The eDuka application is a fully functional e-commerce platform with the following features:
 •	Frontend: Built with React, ensuring a responsive and dynamic user interface.
 •	Backend: Utilizes a JSON server to handle API requests for fetching and persisting product data.
@@ -10,6 +11,7 @@ The eDuka application is a fully functional e-commerce platform with the followi
 •	Core Focus: Providing a seamless shopping experience with efficient navigation, filtering, and cart management.
 
 Minimum Viable Product (MVP)
+
 The application includes the following key features:
 1.	Product Filtering System:
 o	Users can filter products based on categories, price range, or search keywords.
@@ -22,16 +24,25 @@ o	All product data is fetched and managed through a JSON server.
 o	Includes functionality for adding new products and updating stock levels after purchases.
 
 User Stories
+
 1.	Browsing and Searching:
+   
 o	As a user, I want to browse products by category or search for specific items so I can easily find what I’m looking for.
-2.	Cart Management:
+
+3.	Cart Management:
+   
 o	As a user, I want to add products to my cart, update the quantity of items, and remove items so I can manage my purchase list before checkout.
-3.	Product Details:
+
+5.	Product Details:
+   
 o	As a user, I want to view a detailed product page with descriptions, reviews, and price information so I can make an informed purchase decision.
 How to Run the Application
+
 Pre-requisites
+
 1.	Ensure Node.js is installed on your system.
 2.	Install npm (Node Package Manager).
+   
 Steps
 
  Clone this repository:
