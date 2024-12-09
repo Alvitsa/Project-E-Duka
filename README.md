@@ -5,7 +5,7 @@ Welcome to eDuka, a modern and user-friendly e-commerce application designed to 
 Project Description
 
 The eDuka application is a fully functional e-commerce platform with the following features:
-•	Frontend: Built with React, ensuring a responsive and dynamic user interface.
+•	Frontend:  It is built with React, ensuring a responsive and dynamic user interface.
 •	Backend: Utilizes a JSON server to handle API requests for fetching and persisting product data.
 •	Styling: Custom CSS is used to deliver a visually appealing and consistent design.
 •	Core Focus: Providing a seamless shopping experience with efficient navigation, filtering, and cart management.
