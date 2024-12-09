@@ -1,11 +1,14 @@
 eDuka E-commerce Application
+
 Welcome to eDuka, a modern and user-friendly e-commerce application designed to make online shopping seamless and enjoyable. This application is a single-page React application powered by a JSON server backend to manage product data and user interactions efficiently. Whether you're searching for specific items, browsing categories, or managing your shopping cart, eDuka offers a smooth and intuitive experience.
+
 Project Description
 The eDuka application is a fully functional e-commerce platform with the following features:
 •	Frontend: Built with React, ensuring a responsive and dynamic user interface.
 •	Backend: Utilizes a JSON server to handle API requests for fetching and persisting product data.
 •	Styling: Custom CSS is used to deliver a visually appealing and consistent design.
 •	Core Focus: Providing a seamless shopping experience with efficient navigation, filtering, and cart management.
+
 Minimum Viable Product (MVP)
 The application includes the following key features:
 1.	Product Filtering System:
@@ -59,6 +62,7 @@ Features in Detail
 Product Filtering System
 •	Search bar for keyword-based filtering.
 •	Category and price range filters for more refined searches.
+
 Shopping Cart
 •	Add, update, or remove items dynamically.
 •	Automatically calculates total cost and adjusts based on cart contents.
